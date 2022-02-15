@@ -1,14 +1,13 @@
 html {
     font-size: 10px;
+}
 
-  }
-body{
-    background: gray;
+body {
+    background: whitesmoke;
 }
-#img-div{
-    display: flex;
-}
+
 #img-caption{
-    align-items: center;
+    position: relative;
+    left: 50rem;
 }
 
